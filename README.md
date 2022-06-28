@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table style="border: none;" align="center">
+    <tr style="padding: 0; margin: 0;">
+        <th style="padding: 0; margin: 0;">
+            <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilienta&layout=compact&hide=css,html"
+                    alt="nilienta" />
+        </th>
+        <th style="padding: 0; margin: 0;">
+            <img align="center"
+                    src="https://github-readme-stats.vercel.app/api?username=nilienta&show_icons=true&hide=contribs"
+                    alt="nilienta" />
+        </th>
+    </tr>
+</table>
