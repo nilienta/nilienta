@@ -14,17 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table style="border: none;" align="center">
-    <tr style="padding: 0; margin: 0;">
-        <th style="padding: 0; margin: 0;">
-            <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilienta&layout=compact&hide=css,html"
-                    alt="nilienta" />
-        </th>
-        <th style="padding: 0; margin: 0;">
-            <img align="center"
-                    src="https://github-readme-stats.vercel.app/api?username=nilienta&show_icons=true&hide=contribs"
-                    alt="nilienta" />
-        </th>
-    </tr>
-</table>
+
+<figure><embed src="https://wakatime.com/share/@4b0c3445-2e41-4886-a3be-45bb0e0f5b5d/6cc34f2e-9bcb-47b5-b949-fc0f73af346e.svg"></embed></figure>
