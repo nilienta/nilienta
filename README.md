@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="max-width: 20%;">
-<h3 style="text-align:center;"> Languages </h1>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4b0c3445-2e41-4886-a3be-45bb0e0f5b5d/f6b0e3f2-cc30-4c33-96af-5a2eedb8a328.png" /></a>
-</div>
+
