@@ -1,7 +1,7 @@
 <h3 align="left">Привет, я Анна 🙋🏼</h3>
 
 ⚡ &nbsp;Я фронтенд разработчик из Самары<br>
-📫 &nbsp;Связаться со мной: 📲 <a href="https://t.me/anna_river">telegram</a> 📩 <span>почта</span>
+📫 &nbsp;Связаться со мной: 📲 <a href="https://t.me/anna_river">telegram</a>  <!-- 📩 <span>почта</span>-->
 
 <br>Основной стэк/технологии:<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ebedf0?style=for-the-badge&logo=javascript&logoColor=yellow)
