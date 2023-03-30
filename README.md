@@ -33,7 +33,7 @@
   <summary><b>📊&nbsp;Stats</b></summary>
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilienta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nilienta.vercel.app/api/top-langs/?username=nilienta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Codewarrior Profile Badges](https://www.codewars.com/users/nilienta/badges/large)](https://www.codewars.com/users/nilienta)
   
